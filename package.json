@@ -1,0 +1,9 @@
+{
+  "name": "Restaurant_V1.0",
+  "version": "1.0.0",
+  "description": "Boostrap markup template compiled with sass.",
+  "main": "index.js",
+  "repository": "https://github.com/MNANDO/RestaurantV1.0.git",
+  "author": "Michael Hernando",
+  "license": "MIT"
+}
