@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/MNANDO/RestaurantV1.0.git",
   "author": "Michael Hernando",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
 }
